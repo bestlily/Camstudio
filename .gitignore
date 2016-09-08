@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+#
+[Bb]in/
+[Xx]64/
+[Xx]32/
+[Dd]ebug/
+[Rr]elease/
+Output
+
+
