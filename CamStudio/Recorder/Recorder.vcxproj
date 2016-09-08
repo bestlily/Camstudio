@@ -137,7 +137,8 @@
       <DataExecutionPrevention>
       </DataExecutionPrevention>
       <TargetMachine>MachineX86</TargetMachine>
-      <Version>3.1a1</Version>
+      <Version>
+      </Version>
       <ShowProgress>NotSet</ShowProgress>
     </Link>
     <PostBuildEvent>
