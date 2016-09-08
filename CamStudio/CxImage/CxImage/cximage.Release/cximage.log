@@ -1,0 +1,38 @@
+﻿  tif_xfile.cpp
+  ximabmp.cpp
+  ximadsp.cpp
+ximadsp.cpp(2910): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ximaenc.cpp
+  ximaexif.cpp
+  xImage.cpp
+  ximagif.cpp
+  ximahist.cpp
+  ximaico.cpp
+  ximainfo.cpp
+  ximaint.cpp
+  ximajas.cpp
+  ximajbg.cpp
+  ximajpg.cpp
+  ximalpha.cpp
+  ximalyr.cpp
+  ximamng.cpp
+  ximapal.cpp
+  ximapcx.cpp
+  ximapng.cpp
+  正在生成代码...
+  正在编译...
+  ximapsd.cpp
+ximapsd.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ximaraw.cpp
+  ximasel.cpp
+  ximaska.cpp
+  ximatga.cpp
+  ximath.cpp
+  ximatif.cpp
+  ximatran.cpp
+  ximawbmp.cpp
+  ximawmf.cpp
+  ximawnd.cpp
+  xmemfile.cpp
+  正在生成代码...
+  cximage.vcxproj -> F:\other\camstudio-clone\CamStudio\Release\cximage.lib
